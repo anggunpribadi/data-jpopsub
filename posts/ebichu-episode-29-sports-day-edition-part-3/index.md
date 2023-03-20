@@ -1,0 +1,13 @@
+---
+template: post
+title: "[Ebichu++ #EP29] - Sports Day Edition (Part 3)"
+date: 2015-10-21T02:01:00.000Z
+tag:
+  - Ebichu tasu tasu
+category:
+  - Shiritsu Ebisu Chugaku
+author: Irsan
+videoID: ZBf2nSC0jXY
+subTitle: 20151030エビ中29-webm-subs-29.srt
+---
+test
