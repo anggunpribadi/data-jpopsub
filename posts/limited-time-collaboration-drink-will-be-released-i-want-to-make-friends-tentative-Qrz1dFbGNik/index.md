@@ -2,7 +2,7 @@
 template: post
 title: 'Limited time collaboration drink will be released! [I want to make friends (tentative)]'
 date: 2022-12-17T11:00:17Z
-tag: ['Iginari Taikentai']
+tag: ['Iginari Tankentai']
 category: ['Iginari Tohokusan']
 author: auto 
 videoID: Qrz1dFbGNik

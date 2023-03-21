@@ -1,8 +1,8 @@
 ---
 template: post
-title: 'Uncut New Year's Eve countdown! [Iginari Expedition]'
+title: "Uncut New Year's Eve countdown! [Iginari Expedition]"
 date: 2022-12-31T14:48:08Z
-tag: ['Iginari Taikentai']
+tag: ['Iginari Tankentai']
 category: ['Iginari Tohokusan']
 author: auto 
 videoID: eX2Iz3VkaXU

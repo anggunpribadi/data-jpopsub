@@ -1,8 +1,8 @@
 ---
 template: post
-title: '[Sendai New Year's sale] Challenge the announcement in the hall! [Iginari Expedition]'
+title: "[Sendai New Year's sale] Challenge the announcement in the hall! [Iginari Expedition]"
 date: 2023-01-10T11:00:15Z
-tag: ['Iginari Taikentai']
+tag: ['Iginari Tankentai']
 category: ['Iginari Tohokusan']
 author: auto 
 videoID: ThEwdl-e_HU

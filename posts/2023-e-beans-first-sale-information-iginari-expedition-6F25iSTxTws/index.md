@@ -2,7 +2,7 @@
 template: post
 title: '2023 e-beans first sale information! [Iginari Expedition]'
 date: 2022-12-26T11:00:02Z
-tag: ['Iginari Taikentai']
+tag: ['Iginari Tankentai']
 category: ['Iginari Tohokusan']
 author: auto 
 videoID: 6F25iSTxTws

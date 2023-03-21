@@ -2,7 +2,7 @@
 template: post
 title: 'Get well at Genkido Osteopathic Clinic! [Iginari Expedition]'
 date: 2022-11-11T11:00:30Z
-tag: ['Iginari Taikentai']
+tag: ['Iginari Tankentai']
 category: ['Iginari Tohokusan']
 author: auto 
 videoID: MpVk0edgbkw

@@ -1,8 +1,8 @@
 ---
 template: post
-title: 'Let's buy nostalgic sweets! [Iginari Expedition]'
+title: "Let's buy nostalgic sweets! [Iginari Expedition]"
 date: 2023-03-13T11:00:09Z
-tag: ['Iginari Taikentai']
+tag: ['Iginari Tankentai']
 category: ['Iginari Tohokusan']
 author: auto 
 videoID: Ez5tEmvlXVQ

@@ -2,7 +2,7 @@
 template: post
 title: 'Exploring the store & experience making a felt brooch! [Iginari Expedition]'
 date: 2022-12-22T11:00:00Z
-tag: ['Iginari Taikentai']
+tag: ['Iginari Tankentai']
 category: ['Iginari Tohokusan']
 author: auto 
 videoID: 05B3ZecXCqg

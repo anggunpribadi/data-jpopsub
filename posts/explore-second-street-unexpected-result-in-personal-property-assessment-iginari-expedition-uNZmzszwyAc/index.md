@@ -2,7 +2,7 @@
 template: post
 title: 'Explore Second Street! Unexpected result in personal property assessment... [Iginari Expedition]'
 date: 2022-11-24T11:00:41Z
-tag: ['Iginari Taikentai']
+tag: ['Iginari Tankentai']
 category: ['Iginari Tohokusan']
 author: auto 
 videoID: uNZmzszwyAc
