@@ -1,6 +1,6 @@
 ---
 template: post
-title: '[Official] "Nogizaka under construction" 403 "New captain and unity first part" 2023.03.19 OA'
+title: '[Nogizaka Under Construction] 403 "Unity with the new captain" first part 2023.03.19 OA'
 date: 2023-03-19T15:39:06Z
 tag: ['Nogizaka Under Construction']
 category: ['Nogizaka46']
