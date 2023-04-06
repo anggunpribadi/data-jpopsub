@@ -8,4 +8,4 @@ author: auto
 videoID: bvt_6QxTpVs
 subTitle: bvt_6QxTpVs.vtt
 ---
-cast: Kokubo Yuno, Sakurai Ema
+cast: Kokubo Yuno, Sakurai Emma
