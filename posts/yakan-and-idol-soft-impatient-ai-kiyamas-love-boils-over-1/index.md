@@ -5,7 +5,7 @@ date: 2022-10-27T00:14:17.100Z
 tag:
   - Yakan & Idol
 category:
-  - Batten Shoujo-Tai
+  - Batten Girls
 author: Irsan
 videoID: nzdefYw1a88
 subTitle: やかんとアイドル-ふんわりせwebm-subs-1.srt

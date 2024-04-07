@@ -1,6 +1,6 @@
 ---
 template: post
-title: '[Nogizaka Under Construction] #397 [Official] "Protect your seniors! Proxy game battle!" part 2'
+title: '[Nogizaka Under Construction] #397 [Official] "Protect your seniors! Proxy game battle!" part 1'
 date: 2023-02-05T15:58:56Z
 tag: ['Nogizaka Under Construction']
 category: ['Nogizaka46']

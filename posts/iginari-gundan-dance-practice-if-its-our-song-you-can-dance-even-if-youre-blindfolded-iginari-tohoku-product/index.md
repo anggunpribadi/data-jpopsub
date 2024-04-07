@@ -1,6 +1,6 @@
 ---
 template: post
-title: '[Iginari Gundan] [Dance Practice? ] If it's our song, you can dance even if you're blindfolded! [Iginari Tohoku product]'
+title: "[Iginari Gundan] [Dance Practice? ] If it's our song, you can dance even if you're blindfolded! [Iginari Tohoku product]"
 date: 2021-10-25T11:00:12Z
 tag: ['Iginari Gundan']
 category: ['Iginari Tohokusan']

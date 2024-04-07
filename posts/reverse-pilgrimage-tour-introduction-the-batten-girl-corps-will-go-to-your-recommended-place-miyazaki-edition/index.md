@@ -3,7 +3,7 @@ template: post
 title: '[Reverse pilgrimage tour] Introduction! Batten Girls will go to your recommended place! Miyazaki edition'
 date: 2022-07-16T10:00:26Z
 tag: ['Batten Girls Channel']
-category: ['Batten Shoujo-Tai']
+category: ['Batten Girls']
 author: auto 
 videoID: grxflUENMDs
 subTitle: 逆聖地巡礼ツアーばっ紹介あなwebm-grxflUENMDs.srt

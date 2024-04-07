@@ -1,6 +1,6 @@
 ---
 template: post
-title: '[Nogizaka Under Construction] 398 "If you make Akimoto cry, the immediate reward Part 2"' 2023.02.12 OA'
+title: '[Nogizaka Under Construction] #398 [Official] "Protect your seniors! Proxy game battle!" part 2. 2023.02.12 OA'
 date: 2023-02-12T15:29:05Z
 tag: ['Nogizaka Under Construction']
 category: ['Nogizaka46']

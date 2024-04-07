@@ -1,6 +1,6 @@
 ---
 template: post
-title: '[Iginari Gundan] [Happy New Year] The best match for New Year's! ! [Iginari Tohoku product]'
+title: "[Iginari Gundan] [Happy New Year] The best match for New Year's! ! [Iginari Tohoku product]"
 date: 2022-01-05T12:00:13Z
 tag: ['Iginari Gundan']
 category: ['Iginari Tohokusan']

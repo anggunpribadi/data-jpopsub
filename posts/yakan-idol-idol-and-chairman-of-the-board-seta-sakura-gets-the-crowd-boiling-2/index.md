@@ -6,12 +6,12 @@ date: 2022-10-06T22:46:52.469Z
 tag:
   - Yakan & Idol
 category:
-  - Batten Shoujo-Tai
+  - Batten Girls
 author: Irsan
 videoID: uVkHnHihs1s
 subTitle: やかんとアイドル-アイドルで会webm-subs-2.srt
 ---
-There are "three major elements" that make up Sakura Seta of the Batten shoujo-tai.
+There are "three major elements" that make up Sakura Seta of the Batten Girls.
 The first element is "food". Ms. Seta's food preferences are surprisingly...!
 
 About \[Yakan & Idol]: Updated every day at 19:00.

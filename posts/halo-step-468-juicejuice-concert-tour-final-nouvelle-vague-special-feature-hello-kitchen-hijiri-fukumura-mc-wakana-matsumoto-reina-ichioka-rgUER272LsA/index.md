@@ -1,8 +1,8 @@
 ---
 template: post
-title: '【Halo! Step 468] Juice=Juice CONCERT TOUR ~final: nouvelle vague~ special feature! Hello! Kitchen Hijiri Fukumura MC: Wakana Matsumoto & Reina Ichioka'
+title: '【 Hello! Project Stationp 468] Juice=Juice CONCERT TOUR ~final: nouvelle vague~ special feature! Hello! Kitchen Hijiri Fukumura MC: Wakana Matsumoto & Reina Ichioka'
 date: 2023-03-08T10:00:35Z
-tag: ['Halo! Ste']
+tag: [' Hello! Project Station']
 category: ['Juice=Juice', 'Morning Musume', 'Angerme', 'BEYOOOOONDS']
 author: auto 
 videoID: rgUER272LsA

@@ -1,6 +1,6 @@
 ---
 template: post
-title: '[Tokibaro TV] [GU summer clothes 2021] Tokisen's whole body summer clothes coordination for 10,000 yen ♡ epi 134'
+title: "[Tokibaro TV] [GU summer clothes 2021] Tokisen's whole body summer clothes coordination for 10,000 yen ♡ epi 134"
 date: 2021-08-04T13:00:12Z
 tag: ['Tokibaro TV']
 category: ['Cho Tokimeki Sendenbu']

@@ -3,7 +3,7 @@ template: post
 title: '=LOVE Nationwide Tour 2023 Fukuoka Performance Making / The sound of cherry blossoms blooming・This sky is the trigger [Behind The Scenes of "Today is your Trigger"]'
 date: 2023-02-04T12:30:09Z
 tag: ['Ikonoijoy Channel']
-category: ['=LOVE']
+category: ['Equal Love']
 author: auto 
 videoID: VK-lm-GicVk
 subTitle: VK-lm-GicVk.vtt

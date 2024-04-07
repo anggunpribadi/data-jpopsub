@@ -5,7 +5,7 @@ date: 2022-10-21T10:00:46.000Z
 tag:
   - Yakan & Idol
 category:
-  - Batten Shoujo-Tai
+  - Batten Girls
 author: auto
 videoID: yqHj0qjvZ30
 subTitle: 瀬田さくら-リアクションで伝えるゲwebm-subs.srt

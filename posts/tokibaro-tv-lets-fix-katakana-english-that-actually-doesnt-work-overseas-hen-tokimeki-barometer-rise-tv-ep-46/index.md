@@ -1,6 +1,6 @@
 ---
 template: post
-title: '[Tokibaro TV] ~Let's fix katakana English that actually doesn't work overseas! Hen ~ Tokimeki ♡ Barometer Rise TV ep 46'
+title: "[Tokibaro TV] ~Let's fix katakana English that actually doesn't work overseas! Hen ~ Tokimeki ♡ Barometer Rise TV ep 46"
 date: 2019-12-04T13:00:10Z
 tag: ['Tokibaro TV']
 category: ['Cho Tokimeki Sendenbu']
