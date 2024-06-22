@@ -46,7 +46,8 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
                 slug: post.slug,
                 tags: post.tags,
                 categories: post.categories,
-                videoID: post.videoID
+                videoID: post.videoID,
+                body: { html: post.body.html }
             })
         ) 
     })
